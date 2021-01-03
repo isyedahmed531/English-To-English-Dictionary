@@ -3,7 +3,7 @@ The project was given as Semester Project for the subject of Data Structures.
 ========================
 English-to-English Dictionary DESCRIPTION
 ========================
-Author: @syedMuhammadAhmed
+Group Members: 1. Syed Muhammad Ahmed | 2. Fiza Fatima | 3. Ali Raza Younus Mughal
 ========================
 When you build an Java application project that has a main class, the IDE
 automatically copies all of the JAR
